@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', 'HomeController@landing');
-Route::get('/home', 'HomeController@index');
+Route::get('/home', 'InvoiceController@index');
 Route::get('/invoice/tambah', 'InvoiceController@create');
 Route::post('/invoice/store', 'InvoiceController@store');
 Route::get('/layanan', 'ServiceController@index');

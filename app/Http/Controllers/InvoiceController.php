@@ -21,7 +21,8 @@ class InvoiceController extends Controller
     }
     public function index()
     {
-        //
+        $invoices = Invoice::orderBy('kode_invoice', 'DESC')->get();
+        return view('home', compact('invoices'));
     }
 
     /**
