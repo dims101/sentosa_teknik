@@ -13,21 +13,13 @@ class HomeController extends Controller
      *
      * @return void
      */
-    public function __construct()
-    {
-        $this->middleware('auth');
-    }
 
     /**
      * Show the application dashboard.
      *
      * @return \Illuminate\Contracts\Support\Renderable
      */
-    public function index()
-    {
-        $invoices = Invoice::orderBy('kode_invoice', 'DESC')->get();
-        return view('home', compact('invoices'));
-    }
+
     public function landing()
     {
         $services = Service::orderBy('layanan', 'ASC')->get();
