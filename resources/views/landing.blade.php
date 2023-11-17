@@ -1123,7 +1123,7 @@
     <!-- </div> -->
   </footer><!-- End Footer -->
   <div style="position: fixed; bottom: 15px; right: 70px; z-index:2;">
-    <a href="https://wa.me/6285925293385/?text=Halo%20admin%20Sentosa%20Teknik,%20saya%20ingin%20berkonsultasi%20soal%20" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; justify-content: center; background-color: #25d366; border-radius: 10px; width: 180px; height: 40px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); color: #fff;animation: bounce 2s infinite;">
+    <a href="https://wa.me/6285925293385/?text=Halo%20admin%20Sentosa%20Teknik,%20saya%20ingin%20berkonsultasi%20soal%20" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; justify-content: center; background-color: #25d366; border-radius: 10px; width: 110px; height: 40px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); color: #fff;animation: bounce 2s infinite;">
       <i class="ri-whatsapp-line"><span> Whatsapp</span></i>
 
     </a>
