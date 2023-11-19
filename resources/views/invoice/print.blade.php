@@ -28,7 +28,7 @@
                             </div>
                         </div>
                         <div class="row mt-4">
-                            <div class="col-md-4">
+                            <div class="col-md-4 col-xs-4">
                                 <p>
                                     <b>KEPADA :</b><br><br>
                                     {{$invoice->pelanggan}} <br>
@@ -50,7 +50,7 @@
                         </div>
                         <div class="row mt-4">
                             <div class="col-md-12">
-                                <table class="table table-striped">
+                                <table class="table table-striped table-responsive">
                                     <thead>
                                         <tr class="table-primary">
                                             <th class="text-center">No.</th>

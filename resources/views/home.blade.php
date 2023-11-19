@@ -22,7 +22,7 @@
                         {{Session::get('message')}}
                     </div>
                     @endif
-                    <table id="example" class="display" style="width:100%">
+                    <table class="table table-responsive" id="example" class="display" style="width:100%">
                         <thead class="table-info">
                             <tr>
                                 <th>Kode Invoice</th>
