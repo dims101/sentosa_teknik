@@ -49,8 +49,8 @@
                             </div>
                         </div>
                         <div class="row mt-4">
-                            <div class="col-md-12">
-                                <table class="table table-striped table-responsive">
+                            <div class="col-md-12 table-responsive">
+                                <table class="table table-striped">
                                     <thead>
                                         <tr class="table-primary">
                                             <th class="text-center">No.</th>

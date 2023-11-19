@@ -16,13 +16,13 @@
                     </div>
                 </div>
 
-                <div class="card-body">
+                <div class="card-body table-responsive">
                     @if (session('message'))
                     <div class="alert alert-success" role="alert">
                         {{Session::get('message')}}
                     </div>
                     @endif
-                    <table class="table table-responsive" id="example" class="display" style="width:100%">
+                    <table class="table" id="example" class="display" style="width:100%">
                         <thead class="table-info">
                             <tr>
                                 <th>Kode Invoice</th>
