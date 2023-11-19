@@ -123,7 +123,7 @@
                 Dengan tim teknisi berpengalaman, kami menghadirkan solusi AC yang disesuaikan dengan kebutuhan Anda. Kami memahami bahwa setiap pelanggan memiliki kebutuhan unik, dan itulah mengapa kami berusaha untuk memberikan layanan yang mengutamakan kepuasan dan kenyamanan Anda. Dengan standar kualitas tinggi dan pelayanan yang profesional, kami siap menjadi mitra tepercaya Anda dalam menjaga udara sejuk di rumah atau bisnis Anda, dengan layanan yang bergaransi untuk kepuasan Anda.
               </p>
               <div class="text-center text-lg-start">
-                <a href="#" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
+                <a href="https://wa.me/6282179773965/?text=Halo%20admin%20Sentosa%20Teknik,%20saya%20ingin%20berkonsultasi%20soal%20" target="_blank" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
                   <span>Konsultasi Gratis!</span>
                   <i class="bi bi-arrow-right"></i>
                 </a>
@@ -359,7 +359,7 @@
                   <i class="ri-radar-line"></i>
                   <div>
                     <h4>Pelayanan Konsultasi AC</h4>
-                    <p>Solusi konsultasi sesuai permasalahan AC Anda. <a href="https://wa.me/6285925293385/?text=Halo%20admin%20Sentosa%20Teknik,%20saya%20ingin%20berkonsultasi%20soal%20" target="_blank" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">Klik disini untuk konsultasi, Gratis!</a></p>
+                    <p>Solusi konsultasi sesuai permasalahan AC Anda. <a href="https://wa.me/6282179773965/?text=Halo%20admin%20Sentosa%20Teknik,%20saya%20ingin%20berkonsultasi%20soal%20" target="_blank" class="btn-get-started scrollto d-inline-flex align-items-center justify-content-center align-self-center">Klik disini untuk konsultasi, Gratis!</a></p>
                   </div>
                 </div>
 
@@ -515,7 +515,7 @@
                 <li>Cleaning blower</li>
                 <li>Cleaning saluran pembuangan</li>
               </ul>
-              <a href="https://wa.me/6285925293385/?text=Halo%20admin%20Sentosa%20Teknik,%20saya%20ingin%20cuci%20AC%20" target="_blank" class="btn-buy">Order Sekarang!</a>
+              <a href="https://wa.me/6282179773965/?text=Halo%20admin%20Sentosa%20Teknik,%20saya%20ingin%20cuci%20AC%20" target="_blank" class="btn-buy">Order Sekarang!</a>
             </div>
           </div>
 
@@ -532,7 +532,7 @@
                 <li>R410 0.5 - 1 PK | 350k</li>
                 <li>R410 1.5 - 2 PK | 450k</li>
               </ul>
-              <a href="https://wa.me/6285925293385/?text=Halo%20admin%20Sentosa%20Teknik,%20saya%20ingin%20tambah%20freon%20" target="_blank" class="btn-buy">Order Sekarang!</a>
+              <a href="https://wa.me/6282179773965/?text=Halo%20admin%20Sentosa%20Teknik,%20saya%20ingin%20tambah%20freon%20" target="_blank" class="btn-buy">Order Sekarang!</a>
             </div>
           </div>
 
@@ -549,7 +549,7 @@
                 <li>Bobok tembok 1 lubang</li>
                 <li>Pasang pipa & kabel</li>
               </ul>
-              <a href="https://wa.me/6285925293385/?text=Halo%20admin%20Sentosa%20Teknik,%20saya%20ingin%20pasang%20AC%200,5%20PK" target="_blank" class="btn-buy">Dapatkan diskon!</a>
+              <a href="https://wa.me/6282179773965/?text=Halo%20admin%20Sentosa%20Teknik,%20saya%20ingin%20pasang%20AC%200,5%20PK" target="_blank" class="btn-buy">Dapatkan diskon!</a>
             </div>
           </div>
 
@@ -566,7 +566,7 @@
                 <li>Bobok tembok 1 lubang</li>
                 <li>Pasang pipa & kabel</li>
               </ul>
-              <a href="https://wa.me/6285925293385/?text=Halo%20admin%20Sentosa%20Teknik,%20saya%20ingin%20pasang%20AC%201,5%20PK" target="_blank" class="btn-buy">Dapatkan diskon!</a>
+              <a href="https://wa.me/6282179773965/?text=Halo%20admin%20Sentosa%20Teknik,%20saya%20ingin%20pasang%20AC%201,5%20PK" target="_blank" class="btn-buy">Dapatkan diskon!</a>
             </div>
           </div>
         </div>
@@ -1123,7 +1123,7 @@
     <!-- </div> -->
   </footer><!-- End Footer -->
   <div style="position: fixed; bottom: 15px; right: 70px; z-index:2;">
-    <a href="https://wa.me/6285925293385/?text=Halo%20admin%20Sentosa%20Teknik,%20saya%20ingin%20berkonsultasi%20soal%20" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; justify-content: center; background-color: #25d366; border-radius: 10px; width: 110px; height: 40px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); color: #fff;animation: bounce 2s infinite;">
+    <a href="https://wa.me/6282179773965/?text=Halo%20admin%20Sentosa%20Teknik,%20saya%20ingin%20berkonsultasi%20soal%20" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; justify-content: center; background-color: #25d366; border-radius: 10px; width: 110px; height: 40px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); color: #fff;animation: bounce 2s infinite;">
       <i class="ri-whatsapp-line"><span> Whatsapp</span></i>
 
     </a>

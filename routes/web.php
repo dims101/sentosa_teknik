@@ -29,5 +29,6 @@ Route::put('/invoice/{invoice}/update', 'InvoiceController@update');
 Route::delete('/invoice/{invoice}', 'InvoiceController@destroy')->name('invoice.destroy');
 
 Auth::routes();
+// Route::get('/register', 'RegisterController@index')->middleware('RedirectIfRegister');
 
 // Route::get('/home', 'HomeController@index')->name('home');

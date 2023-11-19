@@ -105,9 +105,9 @@
                                 Dengan hormat,
                                 <br>
                                 <br>
+                                <img style="max-width:100px;" src="/assets/img/ttd.png" alt="">
                                 <br>
-                                <br>
-                                Sentosa Teknik
+                                Risma
                             </div>
                         </div>
                     </div>
