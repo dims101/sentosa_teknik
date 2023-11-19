@@ -50,14 +50,6 @@
                     <ul class="navbar-nav ml-auto">
                         <!-- Authentication Links -->
                         @guest
-                        <li class="nav-item">
-                            <a class="nav-link" href="{{ route('login') }}">{{ __('Login') }}</a>
-                        </li>
-                        @if (Route::has('register'))
-                        <li class="nav-item">
-                            <a class="nav-link" href="{{ route('register') }}">{{ __('Register') }}</a>
-                        </li>
-                        @endif
                         @else
                         <li class="nav-item"><a href="/home" class="nav-link">Input Invoice</a></li>
                         <li class="nav-item"><a href="/layanan" class="nav-link">Input Harga</a></li>
