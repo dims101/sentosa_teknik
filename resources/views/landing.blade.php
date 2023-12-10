@@ -537,7 +537,7 @@
                 <li>Cleaning blower</li>
                 <li>Cleaning saluran pembuangan</li>
               </ul>
-              <a href="https://wa.me/6282179773965/?text=Halo%20admin%20Sentosa%20Teknik,%20saya%20ingin%20cuci%20AC%20" target="_blank" class="btn-buy">Order Sekarang!</a>
+              <a href="https://wa.me/6282179773965/?text=Halo%20admin%20Sentosa%20Teknik,%20saya%20ingin%20cuci%20AC%20" target="_blank" class="btn-buy tag-whatsapp">Order Sekarang!</a>
             </div>
           </div>
 
@@ -554,7 +554,7 @@
                 <li>R410 0.5 - 1 PK | 350k</li>
                 <li>R410 1.5 - 2 PK | 450k</li>
               </ul>
-              <a href="https://wa.me/6282179773965/?text=Halo%20admin%20Sentosa%20Teknik,%20saya%20ingin%20tambah%20freon%20" target="_blank" class="btn-buy">Order Sekarang!</a>
+              <a href="https://wa.me/6282179773965/?text=Halo%20admin%20Sentosa%20Teknik,%20saya%20ingin%20tambah%20freon%20" target="_blank" class="btn-buy tag-whatsapp">Order Sekarang!</a>
             </div>
           </div>
 
@@ -571,7 +571,7 @@
                 <li>Bobok tembok 1 lubang</li>
                 <li>Pasang pipa & kabel</li>
               </ul>
-              <a href="https://wa.me/6282179773965/?text=Halo%20admin%20Sentosa%20Teknik,%20saya%20ingin%20pasang%20AC%200,5%20PK" target="_blank" class="btn-buy">Dapatkan diskon!</a>
+              <a href="https://wa.me/6282179773965/?text=Halo%20admin%20Sentosa%20Teknik,%20saya%20ingin%20pasang%20AC%200,5%20PK" target="_blank" class="btn-buy tag-whatsapp">Dapatkan diskon!</a>
             </div>
           </div>
 
@@ -588,7 +588,7 @@
                 <li>Bobok tembok 1 lubang</li>
                 <li>Pasang pipa & kabel</li>
               </ul>
-              <a href="https://wa.me/6282179773965/?text=Halo%20admin%20Sentosa%20Teknik,%20saya%20ingin%20pasang%20AC%201,5%20PK" target="_blank" class="btn-buy">Dapatkan diskon!</a>
+              <a href="https://wa.me/6282179773965/?text=Halo%20admin%20Sentosa%20Teknik,%20saya%20ingin%20pasang%20AC%201,5%20PK" target="_blank" class="btn-buy tag-whatsapp">Dapatkan diskon!</a>
             </div>
           </div>
         </div>
@@ -1037,7 +1037,7 @@
                   <div class="error-message"></div>
                   <div class="sent-message">Your message has been sent. Thank you!</div>
 
-                  <button type="button" class="btn btn-primary" onclick="kirimWhatsApp()">Kirim</button>
+                  <button type="button" class="btn btn-primary tag-whatsapp" onclick="kirimWhatsApp()">Kirim</button>
                 </div>
 
               </div>
@@ -1145,7 +1145,7 @@
     <!-- </div> -->
   </footer><!-- End Footer -->
   <div style="position: fixed; bottom: 15px; right: 70px; z-index:2;">
-    <a href="https://wa.me/6282179773965/?text=Halo%20admin%20Sentosa%20Teknik,%20saya%20ingin%20berkonsultasi%20soal%20" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; justify-content: center; background-color: #25d366; border-radius: 10px; width: 110px; height: 40px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); color: #fff;animation: bounce 2s infinite;">
+    <a class="tag-whatsapp" href="https://wa.me/6282179773965/?text=Halo%20admin%20Sentosa%20Teknik,%20saya%20ingin%20berkonsultasi%20soal%20" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; justify-content: center; background-color: #25d366; border-radius: 10px; width: 110px; height: 40px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); color: #fff;animation: bounce 2s infinite;">
       <i class="ri-whatsapp-line"><span> Whatsapp</span></i>
 
     </a>
