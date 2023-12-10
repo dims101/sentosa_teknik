@@ -145,7 +145,7 @@
                 Dengan tim teknisi berpengalaman, kami menghadirkan solusi AC yang disesuaikan dengan kebutuhan Anda. Kami memahami bahwa setiap pelanggan memiliki kebutuhan unik, dan itulah mengapa kami berusaha untuk memberikan layanan yang mengutamakan kepuasan dan kenyamanan Anda. Dengan standar kualitas tinggi dan pelayanan yang profesional, kami siap menjadi mitra tepercaya Anda dalam menjaga udara sejuk di rumah atau bisnis Anda, dengan layanan yang bergaransi untuk kepuasan Anda.
               </p>
               <div class="text-center text-lg-start">
-                <a href="https://wa.me/6282179773965/?text=Halo%20admin%20Sentosa%20Teknik,%20saya%20ingin%20berkonsultasi%20soal%20" target="_blank" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
+                <a href="https://wa.me/6282179773965/?text=Halo%20admin%20Sentosa%20Teknik,%20saya%20ingin%20berkonsultasi%20soal%20" target="_blank" class="tag-whatsapp btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
                   <span>Konsultasi Gratis!</span>
                   <i class="bi bi-arrow-right"></i>
                 </a>
@@ -1145,7 +1145,7 @@
     <!-- </div> -->
   </footer><!-- End Footer -->
   <div style="position: fixed; bottom: 15px; right: 70px; z-index:2;">
-    <a class="tag-whatsapp" href="https://wa.me/6282179773965/?text=Halo%20admin%20Sentosa%20Teknik,%20saya%20ingin%20berkonsultasi%20soal%20" target="_blank" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; justify-content: center; background-color: #25d366; border-radius: 10px; width: 110px; height: 40px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); color: #fff;animation: bounce 2s infinite;">
+    <a href="https://wa.me/6282179773965/?text=Halo%20admin%20Sentosa%20Teknik,%20saya%20ingin%20berkonsultasi%20soal%20" target="_blank" class="tag-whatsapp" style="text-decoration: none; display: flex; flex-direction: column; align-items: center; justify-content: center; background-color: #25d366; border-radius: 10px; width: 110px; height: 40px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); color: #fff;animation: bounce 2s infinite;">
       <i class="ri-whatsapp-line"><span> Whatsapp</span></i>
 
     </a>
